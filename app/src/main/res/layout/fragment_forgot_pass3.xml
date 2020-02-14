@@ -47,6 +47,10 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/logo_image"/>
 
+
+
+
+
             <TextView
                 android:id="@+id/fp3_password_condition_txt"
                 android:layout_width="match_parent"
