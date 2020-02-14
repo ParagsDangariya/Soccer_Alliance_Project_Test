@@ -55,4 +55,9 @@
         android:name="com.example.soccer_alliance_project_test.Team_mngr_my_profile_Fragment"
         android:label="fragment_team_mngr_my_profile_"
         tools:layout="@layout/fragment_team_mngr_my_profile_" />
+    <fragment
+        android:id="@+id/createLeagueFragment"
+        android:name="com.example.soccer_alliance_project_test.CreateLeagueFragment"
+        android:label="fragment_create_league"
+        tools:layout="@layout/fragment_create_league" />
 </navigation>
